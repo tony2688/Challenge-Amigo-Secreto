@@ -84,16 +84,13 @@ Para acceder y probar el proyecto, sigue estos pasos:
 
 ## Personas Contribuyentes
 
-- [Nombre del Contribuyente 1](#)
-- [Nombre del Contribuyente 2](#)  
-*(Agrega más colaboradores según corresponda.)*
-
+- [Antonio Romero](#)
+  
 ---
 
 ## Personas-Desarrolladores del Proyecto
 
-- [Nombre del Desarrollador Principal](#)  
-*(Incluye aquí a todos los desarrolladores que participaron en el proyecto.)*
+- [Antonio Romero](#)  
 
 ---
 
